@@ -163,8 +163,8 @@ While leveraging Home Assistant's open-source foundation, HomeAIQ would develop 
 
 HomeAIQ would strategically supplement its executive team with a world-class advisory board:
 
-### Key Strategic Advisor
-HomeAIQ has already secured a commitment from a critical strategic advisor:
+### Key Strategic Advisors
+HomeAIQ has already secured commitments from two critical strategic advisors:
 
 **John Eicher - Strategic Sourcing & Vendor Relationship Advisor**  
 Senior Manager at The Walt Disney Company, Enterprise Sourcing - Professional Services
@@ -175,8 +175,18 @@ John brings over 25 years of elite strategic sourcing experience with major corp
 - Creating sustainable hardware procurement advantages
 - Building HomeAIQ's manufacturer relationship strategy
 
+**Robert Silver - Smart Home Channel & Product Strategy Advisor**  
+Former VP Sales and Marketing at AMX, Fuze Media Systems, and other smart home companies
+
+Bob brings extensive experience in the smart home industry spanning multiple decades, including leadership roles at AMX (a leading control systems manufacturer) and Fuze Media Systems. His deep expertise in the integration channel and smart home product strategy will provide:
+- Guidance on building optimal integrator dealer networks
+- Insights into smart home product positioning and differentiation
+- Channel development strategies for both direct and indirect sales
+- Connections to key industry influencers and custom integration professionals
+- Experience launching and scaling new smart home solutions
+
 ### Additional Advisory Structure
-HomeAIQ would complement John's expertise with 8-10 additional advisors across five key domains:
+HomeAIQ would complement these confirmed advisors with 6-8 additional specialists across five key domains:
 - **Technical Foundation**: Including Home Assistant core contributors and IoT security experts
 - **Integration Industry**: Former executives from legacy integrators with industry insights
 - **Luxury Home Markets**: High-end developers and designers with affluent client understanding

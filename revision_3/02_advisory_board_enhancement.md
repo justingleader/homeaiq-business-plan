@@ -45,9 +45,9 @@ HomeAIQ will assemble a balanced advisory board with 10-12 members across six ke
 - **Legacy Integrator Executive**: Former executive from established integration company
 - **High-End Installation Veteran**: Technical leader with luxury project implementation experience
 
-## Confirmed Strategic Advisor
+## Confirmed Strategic Advisors
 
-HomeAIQ has already secured a commitment from a key strategic advisor:
+HomeAIQ has already secured commitments from two key strategic advisors:
 
 ### John Eicher - Strategic Sourcing & Vendor Relationship Expert
 
@@ -69,6 +69,29 @@ HomeAIQ has already secured a commitment from a key strategic advisor:
 - Train and mentor HomeAIQ's procurement team on strategic sourcing practices
 
 John's exceptional sourcing experience will be instrumental in establishing HomeAIQ's core manufacturer relationships - a critical element of our business strategy and competitive advantage.
+
+### Robert Silver - Smart Home Industry & Channel Strategy Expert
+
+**Current Role:** Smart Home Product and Channel Consultant at Silver Ink
+
+**Background:**
+- Extensive smart home industry experience with leadership roles at AMX (Channel Sales Manager), Fuze Media Systems (VP Sales and Marketing), and other technology companies
+- Founded Silver Ink consulting, providing product, brand, and channel consulting for consumer electronics companies in the smart home marketplace
+- Developed channel strategies for companies expanding from traditional CE channels to high-touch custom integration channels
+- Built market positions for emerging smart home companies against established competitors
+- Created successful sales methodologies and lead generation systems for technology companies
+- Grew AMX business 40% year over year, earning Sales Manager of the Year award
+- Education: Studies in Marketing at Framingham State University, BBA in Computer Science from Temple University
+
+**Key Contributions to HomeAIQ:**
+- Develop HomeAIQ's channel strategy for reaching premium integrators and luxury clients
+- Provide industry insights and competitive positioning against legacy integration companies
+- Create sales methodologies and pipeline management systems tailored to the integration market
+- Leverage industry relationships to establish credibility with key channel partners
+- Guide product feature prioritization based on installer and market needs
+- Advise on messaging strategy to differentiate from traditional integration approaches
+
+Bob's deep knowledge of the custom integration industry and proven track record in channel development will be invaluable as HomeAIQ builds its dealer network and market position against established competitors.
 
 ## Additional Advisor Profiles
 
@@ -242,13 +265,13 @@ HomeAIQ will implement this advisory board strategy in three phases:
 The advisory board strategy will be positioned to investors as a key risk mitigation approach:
 
 ### Key Investor Messages
-1. "HomeAIQ's advisory strategy brings together industry leaders who provide critical expertise, insights, and connections across all key aspects of our business"
-2. "Our advisory structure delivers real-time access to specialized knowledge at a fraction of the cost of full executive hires"
-3. "The advisory board includes hardware manufacturer relationships that enhance both operational advantages and potential exit opportunities"
-4. "Our ecosystem influencers provide direct access to engaged smart home enthusiasts and amplify our message to targeted audiences"
-5. "Luxury market specialists connect us to premium customers, developers, and strategic implementation opportunities"
-6. "Technology and implementation advisors validate our approach while reducing execution risk"
-7. "Service business scaling experts provide proven methodologies for efficient geographical expansion"
+1. "HomeAIQ has secured commitments from two critical advisors with exceptional industry experience: a strategic sourcing expert who has delivered over $120M in savings and a smart home channel veteran with leadership experience at AMX and other industry leaders"
+2. "Our confirmed advisors provide immediate advantages in two critical areas: substantial hardware vendor discounts and channel development expertise specifically in the custom integration market"
+3. "These advisors complement each other perfectly - John Eicher delivers procurement and vendor relationship excellence while Robert Silver provides industry-specific channel strategy and product positioning insights"
+4. "The advisor team delivers real-time access to specialized knowledge at a fraction of the cost of full executive hires"
+5. "Additional targeted advisors in technology, luxury markets, and scaling will round out our strategic advantage"
+6. "Our ecosystem influencers will provide direct access to engaged smart home enthusiasts and amplify our message to targeted audiences"
+7. "This carefully designed advisory structure creates a comprehensive strategic advantage across vendor relationships, channel development, technical innovation, and scaling operations"
 
 ### Advisor Introductions in Investor Presentations
 - Brief advisor biographies included in pitch materials
