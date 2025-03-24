@@ -60,9 +60,15 @@ HomeAIQ's Day 1 priority would be the strategic acquisition of an established le
 - Active sales pipeline for immediate conversion to our open ecosystem model
 - Platform for demonstrating the HomeAIQ approach with real customers
 
-This acquisition-first approach would allow HomeAIQ to bypass the traditional "start from zero" challenge, immediately demonstrating market traction while validating our business model with paying customers.
+This acquisition-first approach would allow HomeAIQ to bypass the traditional "start from zero" challenge, immediately establishing market presence with a ready customer base and technical team.
 
-From this foundation, our growth strategy would combine converting the acquired customer base with targeted expansion through both organic growth and additional strategic acquisitions. Starting from our California beachhead, we'll expand to 31 metro markets within 7 years, reaching 120M+ Americans.
+From this foundation of 1-2 strategic acquisitions in California, we'll focus on optimizing operations rather than validating the core business model—which consists of proven elements (Home Assistant's popularity, established hardware vendors, and demonstrated customer demand). Our initial 12-24 months will focus on:
+- Establishing vendor relationships for optimal hardware margins and rebates
+- Gathering detailed metrics on our cost advantages versus legacy integrators
+- Refining our go-to-market and customer acquisition strategies
+- Perfecting our technical implementation methodology
+
+With these optimizations in place, we'll execute rapid scaling in Years 3-5 through both organic growth and additional strategic acquisitions. Starting from our California beachhead, we'll expand to 31 metro markets within 7 years, reaching 120M+ Americans.
 
 ## Financial Projections & Milestone-Based Funding
 
@@ -75,26 +81,32 @@ HomeAIQ projects strong, sustainable growth:
 
 ### Capital-Efficient, Performance-Triggered Funding Approach
 
-Rather than raising the full $53.9M at once, HomeAIQ would implement a milestone-based funding structure that aligns capital deployment with validated business performance:
+Rather than raising the full $53.9M at once, HomeAIQ would implement a milestone-based funding structure that aligns capital deployment with operational readiness for scale:
 
-- **Phase 1: Acquisition & Proof of Concept** ($8.5M)
-  - Strategic acquisition of California integrator
-  - Initial technology platform implementation
-  - 50+ customers and >30% gross margins required for next phase
+- **Phase 1: Strategic Acquisitions & Operational Optimization** ($8.5M)
+  - 1-2 strategic acquisitions of California integrators
+  - Initial technology platform implementation and standardization
+  - Establishment of vendor relationships and supply chain
+  - Key metrics: 50+ customers, >30% gross margins, and defined operational KPIs
 
-- **Phase 2: California Beachhead** ($12M, triggered by Phase 1 milestone)
+- **Phase 2: California Market Optimization** ($12M, triggered by Phase 1 metrics)
   - Expansion to second California location
-  - 150+ customers and positive EBITDA in initial location required for next phase
+  - Refinement of marketing and sales processes
+  - Development of proprietary extensions and automation templates
+  - Key metrics: 150+ customers, positive EBITDA in initial locations, customer acquisition cost targets
 
-- **Phase 3: Regional Expansion** ($15M, triggered by Phase 2 milestone)
-  - Expansion to 4 additional strategic markets
-  - 400+ customers and proven multi-market model required for next phase
+- **Phase 3: Regional Scale Execution** ($15M, triggered by Phase 2 metrics)
+  - Rapid expansion to 4 additional strategic markets using proven playbook
+  - Implementation of regional management structure
+  - Deployment of optimized technology stack and operational processes
+  - Key metrics: 400+ customers, multi-market operational efficiency targets
 
-- **Phase 4: National Scale** ($18.4M, triggered by Phase 3 milestone)
+- **Phase 4: National Acceleration** ($18.4M, triggered by Phase 3 metrics)
   - Accelerated expansion to 20+ markets nationwide
+  - Scaling of centralized support and technology infrastructure
   - Optimization for profitable growth and exit readiness
 
-This phased approach significantly reduces investor risk by ensuring capital is deployed only after the business model is validated at each stage, while still preserving the ambitious growth trajectory.
+This phased approach significantly reduces investor risk by ensuring capital is deployed only after operational readiness is demonstrated at each stage, with the understanding that the core business elements (technology, market demand, service approach) are already proven.
 
 ## Founder & Leadership Team
 
