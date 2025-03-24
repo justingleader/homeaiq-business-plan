@@ -60,9 +60,10 @@
 - **Investment Returns**: 5.5× ROI by Year 7 (452% return) with de-risked capital structure
 
 ## 10. Competitive Advantages & Moats
-- **Open-Source Leadership**: Community-driven development velocity
-- **Technical Superiority**: Integration capabilities far beyond closed systems
-- **Data Network Effects**: AI improvements from growing installation base
+- **Ecosystem-Powered Advantage**: Leveraging Apple, Google, and Amazon ecosystems to deliver superior solutions
+- **Solution Versatility**: Ability to solve diverse customer needs with tailored cross-ecosystem integration
+- **Technical Problem-Solving**: Proprietary knowledge base of integration solutions for complex scenarios
+- **Customer Trust & Expansion**: Converting single-solution customers into lifetime, multi-service clients
 - **Geographic Density**: Operational efficiencies from market concentration
 
 ## 11. Team
@@ -76,15 +77,17 @@
 
 ## 12. Exit Strategy
 - **Valuation Growth**: $13.1M (Year 1) → $297.5M (Year 7)
-- **Strategic Acquirers**: Tech giants, security firms, home service conglomerates
-- **Comparable Exits**: Examples of similar business models with favorable outcomes
+- **Strategic Acquirers**: Premium hardware manufacturers, home security providers, communications companies
+- **Multiple Exit Paths**: Hardware manufacturer acquisition (Year 3-4), service provider acquisition (Year 4-5), PE platform (Year 5-6)
+- **Key Examples**: Vivint (acquired by NRG Energy), ADT (acquired LifeShield), Alarm.com (acquired Shooter Detection Systems)
 - **Target Exit**: 9.8× EBITDA or 1.16× revenue multiple
 
 ## 13. Why Now?
-- **Market Timing**: Hardware ecosystem maturity creates perfect moment
-- **Technology Convergence**: Matter standard, AI advances, and secure local control
-- **Consumer Readiness**: Smart device adoption, climate concerns, and remote work trends
-- **Industry Fragmentation**: Legacy integrators vulnerable to disruption
+- **Market Opportunity Gap**: Legacy integrators' outdated approaches create room for modern alternative
+- **Technology Interoperability**: Unprecedented compatibility between Matter, Thread, Zigbee, Z-Wave creates perfect integration moment
+- **Growing Smart Home ROI**: Energy savings, security benefits, and lifestyle enhancements delivering better returns
+- **Trust Deficit in Market**: Customers seeking reliable problem-solvers in increasingly complex smart home landscape
+- **Consumer Adoption Acceleration**: Smart home adoption reaching critical mass with 27% CAGR
 
 ## 14. Call to Action
 - Investment opportunity overview
