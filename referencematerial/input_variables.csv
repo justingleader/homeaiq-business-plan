@@ -1,0 +1,26 @@
+Category,Margin %,Unnamed: 2,Labor Costs,Unnamed: 4,Unnamed: 5,Corporate Overhead (based on Net Revenue),Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14
+Category,0.3,,Average Hourly Revenue to Customer,125,,Year,1.0,2.0,3.0,4.0,5,6,7,
+Blinds & Windows,0.2,,Average Fully-Loaded Internal Staff COGS,90,,Marketing,0.15,0.14,0.13,0.12,0.11,0.1,0.09,
+Climate Control,0.15,,,,,Operations,0.2,0.19,0.18,0.17,0.16,0.15,0.14,
+Entertainment (TV/Theater),0.25,,,,,Corporate,0.08,0.07,0.06,0.06,0.05,0.05,0.05,
+Infrastructure (Water),0.25,,,,,Total Overhead,0.43,0.4,0.37,0.35,0.32,0.3,0.28,
+Lighting & Controls,0.2,,,,,,,,,,,,,
+Low-Voltage Wiring,0.17,,,,,,,,,,,,,
+Home Assistant Hub,0.17,,Acquisition Cost,,,,,,,,,,,
+Networking & Wi-Fi,0.17,,Average Acquisition Total Valuation,4500000,,,,,,,,,,
+Multi-Room Audio,0.17,,Target Rollover Equity %,0.25,,,,,,,,,,
+Security System (Alarm),0.17,,Average Acquisition Rollover Equity,1125000,,,,,,,,,,
+Surveillance Cameras,0.17,,Average Acquisition Cash Payout,3375000,,,,,,,,,,
+Access Control,0.17,,,,,,,,,,Support Subscribers,Basic,Enthusiast,Luxury
+Air Quality & Ventilation,0.17,,Average Investment First 2 years for New Organic Location,4000000,,,,,,,Subscribers,0.4,0.5,0.8
+Safety (Smoke/CO),0.17,,Desired Cash Cushion % of Net Revenue,cash_cushion = 0.05 + 0.20 * (year_one_revenue/current_revenue)^0.5,,,,,,,Churn,0.3,0.3,0.2
+Infrastructure (Water Protection),0.17,,,,,,,,,,Cost,0.05,0.07,0.07
+Climate Control (HVAC),0.17,,EBITDA Multiples at different revenues,,,Referral Income,,,,,,,,
+Blinds & Window Automation,0.17,,0-5M,4,,Customers that do successful referrals,0.1,,,,Support Margin,0.3,,
+Smart Irrigation,0.17,,5-10M,6,,Average Referral % of service fee,0.05,,,,,,,
+,0.17,,10-15M,7,,,,,,,,,,
+,,,15-20M,8,,,,,,,,,,
+,,,20-30M,9,,,,,,,,,,
+,,,30-50M,10.5,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,Expected Annual Debt Servicing %,0.09,,,,,,,,,,

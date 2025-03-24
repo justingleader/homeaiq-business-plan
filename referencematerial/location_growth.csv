@@ -1,0 +1,65 @@
+Year,Acquire or Organic,City,State,Population,Labor Cost Multiplier,Notes,Unnamed: 7
+1,Acquisition,Los Angeles,CA,1.15,12.68 M,"High-income market (top smart-home listings) ([Smart Homes 2025: Trends, Pricing, and Buyer Insights",
+1,Acquisition,San Francisco,CA,1.2,3.36 M,Affluent tech hub (Bay Area ~7.5 M people (San Francisco Bay Area - Wikipedia)); regional wildfire seasons (smoke from NorCal fires) spur interest in air quality and safety monitoring.,
+2,Organic,Seattle,WA,1.15,3.58 M,"Tech-driven affluent city; overall crime rose ~10% post-2020 (Violence and property crime are up in Seattle. Here's how officials ...), boosting home security adoption. Regional wildfire smoke issues also increase demand for air quality monitors.",
+2,Organic,Phoenix,AZ,1,4.83 M,"Fast-growing metro (1.9% annual growth) (Phoenix is one of the fastest-growing cities in the nation. How does it plan to handle population growth, pollution? - Blaze Radio) with extensive new home construction; strong demand for smart thermostats and water leak sensors in extreme heat and monsoon season.",
+2,Acquisition,Houston,TX,1,6.89 M,"Huge, wealthy metro with rapid growth ([Los Angeles Metro Area Population 1950-2025",
+3,Organic,Denver,CO,1.1,2.99 M,"Booming population and new builds in Colorado; the 2021 Marshall Fire destroyed 1,000+ homes nearby (Boulder County Protects Residents with Clarity), raising local awareness for wildfire sensors and air filtration tech.",
+3,Organic,Dallas,TX,1.05,6.73 M,"High-income sprawling metro; among the top U.S. markets for smart-home adoption ([Smart Homes 2025: Trends, Pricing, and Buyer Insights",
+3,Acquisition,Chicago,IL,1.05,9.04 M,Midwest’s largest metro and financial hub; establishes central U.S. presence. Some recent upticks in property crime prompt demand for advanced security systems in upscale neighborhoods.,
+4,Organic,Atlanta,GA,0.99,6.27 M,Southeast business hub with rapid suburban growth; significant in-migration and new housing. Expansion here addresses regional security concerns amid a recovering crime rate.,
+4,Organic,Washington,DC,1.11,5.60 M,"One of the nation’s highest-income metros (Purchasing Power Map: Most Expensive US Cities & Metros) with tech-savvy, security-conscious consumers. Presence in D.C. area targets affluent suburbs and upselling of smart security to government contractors.",
+4,Acquisition,Miami,FL,1.1,6.37 M,"Luxury coastal market with strong demand for smart home tech ([Smart Homes 2025: Trends, Pricing, and Buyer Insights",
+5,Organic,Boston,MA,1.1,4.40 M,"Educated, affluent market (top 15 costliest metro)​taxfoundation.org
+ with many high-spending consumers. High rate of smart home adoption in tech/biotech executive communities; occasional nor’easter storms underscore value of flood and power monitoring.",
+5,Organic,Austin,TX,1,2.31 M,"Tech boomtown attracting high earners​connect.onefpa.org
+ (Tesla, Oracle relocations); rapid new luxury home development. Growing upper-mid customer base drives organic expansion in smart security and energy management solutions.",
+5,Organic,Detroit,MI,0.95,4.33 M,,
+5,Acquisition,New York,NY,1.15,19.15 M,"Nation’s largest metro​macrotrends.net
+ and financial center; extremely high concentration of affluent customers. NYC is a top smart-home market by volume​vivint.com
+, warranting entry via acquisition for an established client base.",
+5,Acquisition,Philadelphia,PA,0.99,5.86 M,"Dense Northeast corridor market with affluent suburbs (Main Line). The area’s violent crime rate is higher than national averages​en.wikipedia.org
+, fueling demand for professional security and surveillance systems in upscale communities.",
+6,Organic,Charlotte,NC,0.97,2.37 M,"Banking center with surging population (117 new residents per day)​gaston.org
+ and home construction. Expansion captures the Carolinas’ high-growth, high-income suburban market with interest in smart security and energy savings tech.",
+6,Organic,Minneapolis,MN,1.04,3.04 M,"High per-capita income, stable Midwest market (HQ for many Fortune 500s). After 2020 unrest, Minnesota saw a 17% surge in violent crime​mprnews.org
+, prompting greater interest in advanced home security and monitoring in the Twin Cities.",
+6,Organic,Columbus,OH,0.98,2.13 M,,
+6,Organic,Indianapolis,IN,0.97,2.02 M,,
+6,Acquisition,San Antonio,TX,1,2.55 M,,
+6,Acquisition,San Diego,CA,1.15,3.37 M,"Affluent coastal metro; second-most expensive U.S. housing market​taxfoundation.org
+. History of wildfires (2007 fires destroyed ~1,600 homes)​10news.com
+ drives demand for air quality, fire detection, and backup power solutions.",
+6,Acquisition,Tampa,FL,0.95,3.04 M,"Fast-growing Florida metro​macrotrends.net
+ with extensive new suburbs. Highly hurricane-exposed area – Tampa Bay is rated the most vulnerable U.S. city to hurricane damage (storm surge risk ~$175 B)​wired.com
+ – boosting demand for flood sensors and resilient smart home installs.",
+7,Organic,Portland,OR,1.05,2.27 M,"Tech-influenced market with steady growth. In 2020, nearby wildfires gave Portland the world’s worst air quality​pbs.org
+, spurring adoption of smart air purifiers and environmental sensors; civil unrest in 2020 also increased interest in security systems.",
+7,Organic,Nashville,TN,0.95,2.10 M,"Booming Sunbelt metro (projected 38% population growth 2010–2025)​lawnstarter.com
+ and thriving construction of upscale homes. Expansion targets its high-income suburbs and rapid urbanization, amid recent tornado and crime concerns driving smart security uptake.",
+7,Acquisition,Las Vegas,NV,0.95,3.00 M,"Tourism hub with ongoing new home development. Property crime rates ~22% above U.S. average​goldbergloren.com
+ in Las Vegas are motivating homeowners to invest in smart security, while growth in high-end communities supports a local integrator acquisition.",
+7,Organic,Pittsburgh,PA,0.97,2.32 M,,
+7,Organic,Kansas City,MO,0.96,2.15 M,,
+7,Organic,Madison,WI,0.99,0.67 M,,
+7,Acquisition,Orlando,FL,0.98,2.57 M,,
+7,Acquisition,Salt Lake City,UT,0.95,1.27 M,"Mountain West tech hub (“Silicon Slopes”) anchoring Utah. Utah was the fastest-growing state from 2010–2023 (23.9% increase)​worldpopulationreview.com
+, creating strong demand for smart home integration in new master-planned communities and high-tech homes.",
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+# of locations new each year,Year 1,Year 2,Year 3,Year 5,Year 4,Year 6,Year 7
+Organic,0,2,2,2,3,4,5
+Acquisition,2,1,1,1,2,3,3
+Total,2,3,3,3,5,7,8
+,,,,,,,
+Cumulative Locations Over Time,2,5,8,16,16,23,31
+,,,,,,,
+Acquisition Cost (That Year),6750000,3375000,3375000,3375000,6750000,10125000,10125000
+Acquisition Cost (Cumulative),6750000,10125000,13500000,23625000,23625000,33750000,43875000
+"Organic Cost (That Year, commited in year 1 of each new location but spent over 2 years)",0,8000000,8000000,8000000,12000000,16000000,20000000
+Organic Cost (Cumulative),0,8000000,16000000,36000000,36000000,52000000,72000000
+Total Cost (That Year),6750000,11375000,11375000,11375000,18750000,26125000,30125000
+Total Cost (Cumulative),6750000,18125000,29500000,59625000,59625000,85750000,115875000
