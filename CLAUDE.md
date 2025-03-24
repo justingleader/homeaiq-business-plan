@@ -32,3 +32,9 @@ This repository contains business planning documents for HomeAIQ, a smart home i
 - Use CSV format for data files
 - For complex relationships, use Mermaid diagrams: ```mermaid
 - Include graphical projection summaries with labeled axes
+
+## Change Management
+- Document all significant changes in CHANGELOG.md
+- Include date, summary of changes, and brief explanation
+- Keep change entries concise (2-3 bullet points per change)
+- Group related changes under descriptive headings
