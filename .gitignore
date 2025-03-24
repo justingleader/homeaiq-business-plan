@@ -1,0 +1,32 @@
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Office temporary files
+~$*
+*.tmp
+*.bak
+
+# Excel temporary
+~$*.xlsx
+~$*.xls
+
+# Word temporary
+~$*.docx
+~$*.doc
+
+# PowerPoint temporary
+~$*.pptx
+~$*.ppt
+
+# Log files
+*.log
+
+# Personal configuration files
+.env
+*.local
