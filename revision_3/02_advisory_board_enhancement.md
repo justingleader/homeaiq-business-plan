@@ -18,28 +18,32 @@ A carefully constructed advisory board serves multiple critical functions for Ho
 
 ## Ideal Advisory Board Composition
 
-HomeAIQ will assemble a balanced advisory board with 8-10 members across five key domains:
+HomeAIQ will assemble a balanced advisory board with 10-12 members across six key domains:
 
-### 1. Technical Foundation (2-3 Advisors)
+### 1. Technical Foundation (2 Advisors)
 - **Home Assistant Core Contributor**: Deep technical expertise in platform capabilities and roadmap
 - **IoT Systems Architect**: Enterprise-grade implementation and scaling expertise
 - **Smart Home Security Expert**: Specialized focus on securing connected home environments
 
-### 2. Integration Industry (2 Advisors)
-- **Legacy Integrator Executive**: Former executive from Control4, Crestron, or Savant
-- **High-End Installation Veteran**: Technical leader with luxury project implementation experience
+### 2. Hardware Manufacturer Relationships (2 Advisors)
+- **Smart Home Hardware Executive**: Current or former leader at premium hardware company
+- **Device Integration Specialist**: Expert in cross-platform compatibility and technical integration
 
-### 3. Luxury Home Markets (1-2 Advisors)
+### 3. Luxury Home Markets (2 Advisors)
 - **Luxury Real Estate Developer**: Experience with high-end residential projects and buyer expectations
 - **High-Net-Worth Client Advisor**: Understands affluent homeowner needs and expectations
 
-### 4. Ecosystem Relationships (2 Advisors)
-- **Former Ecosystem Executive**: Previous leadership role at Apple, Google, or Amazon smart home division
-- **Smart Home Device Manufacturer**: Experience with ecosystem relationship management
+### 4. Ecosystem Influencers (2 Advisors)
+- **Smart Home Content Creators**: Influential creators with large social media followings across platforms
+- **Home Automation Community Leaders**: Respected voices in smart home implementation communities
 
-### 5. Business Scaling (1-2 Advisors)
+### 5. Service Business Scaling (2 Advisors)
 - **Multi-Location Service Business Expert**: Experience scaling service operations across markets
-- **Open-Source Business Model Expert**: Success commercializing open-source technology
+- **Customer Experience Specialist**: Expertise in premium service delivery and retention
+
+### 6. Integration Industry (2 Advisors)
+- **Legacy Integrator Executive**: Former executive from established integration company
+- **High-End Installation Veteran**: Technical leader with luxury project implementation experience
 
 ## Advisor Profiles and Contributions
 
@@ -96,7 +100,24 @@ HomeAIQ will target advisors with the following profiles, backgrounds, and speci
 - Help refine marketing messaging for luxury segments
 - Create referral relationships with complementary luxury service providers
 
-### 4. Service Business Scale Experts
+### 4. Ecosystem Influencers
+
+**Profile:** Smart home content creators with substantial audiences and community impact
+
+**Key Backgrounds:**
+- YouTube creators specializing in smart home technology reviews and tutorials
+- Social media influencers with significant followings in home automation niches
+- Podcast hosts covering smart home and IoT topics
+- Community forum leaders and moderators in major smart home communities
+
+**Expected Contributions:**
+- Amplify HomeAIQ's message and approach to targeted audiences
+- Provide market feedback on emerging trends and consumer interests
+- Create authentic content showcasing HomeAIQ's solutions and approach
+- Facilitate direct connections to engaged, tech-savvy potential customers
+- Offer insights into common DIY user challenges that can be addressed by professional solutions
+
+### 5. Service Business Scale Experts
 
 **Profile:** Executives who have successfully built and scaled multi-location service operations
 
@@ -113,7 +134,7 @@ HomeAIQ will target advisors with the following profiles, backgrounds, and speci
 - Help design training programs and quality assurance systems
 - Advise on balancing centralized and local operations
 
-### 5. Integration Industry Veterans
+### 6. Integration Industry Veterans
 
 **Profile:** Experienced professionals from traditional integration companies with insider knowledge
 
@@ -199,9 +220,10 @@ The advisory board strategy will be positioned to investors as a key risk mitiga
 1. "HomeAIQ's advisory strategy brings together industry leaders who provide critical expertise, insights, and connections across all key aspects of our business"
 2. "Our advisory structure delivers real-time access to specialized knowledge at a fraction of the cost of full executive hires"
 3. "The advisory board includes hardware manufacturer relationships that enhance both operational advantages and potential exit opportunities"
-4. "Our advisors provide direct connections to premium markets, luxury developers, and strategic implementation opportunities"
-5. "Technology and implementation advisors validate our approach while reducing execution risk"
-6. "Service business scaling experts provide proven methodologies for efficient geographical expansion"
+4. "Our ecosystem influencers provide direct access to engaged smart home enthusiasts and amplify our message to targeted audiences"
+5. "Luxury market specialists connect us to premium customers, developers, and strategic implementation opportunities"
+6. "Technology and implementation advisors validate our approach while reducing execution risk"
+7. "Service business scaling experts provide proven methodologies for efficient geographical expansion"
 
 ### Advisor Introductions in Investor Presentations
 - Brief advisor biographies included in pitch materials
