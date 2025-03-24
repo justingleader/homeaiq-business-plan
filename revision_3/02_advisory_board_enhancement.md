@@ -45,9 +45,34 @@ HomeAIQ will assemble a balanced advisory board with 10-12 members across six ke
 - **Legacy Integrator Executive**: Former executive from established integration company
 - **High-End Installation Veteran**: Technical leader with luxury project implementation experience
 
-## Advisor Profiles and Contributions
+## Confirmed Strategic Advisor
 
-HomeAIQ will target advisors with the following profiles, backgrounds, and specific contributions:
+HomeAIQ has already secured a commitment from a key strategic advisor:
+
+### John Eicher - Strategic Sourcing & Vendor Relationship Expert
+
+**Current Role:** Senior Manager at The Walt Disney Company, Enterprise Sourcing - Professional Services
+
+**Background:**
+- 25+ years of strategic sourcing leadership at major corporations including Disney, Amgen, Paramount Pictures, and NBCUniversal
+- Negotiated and delivered savings of over $120 million through strategic deals at NBCUniversal
+- Created innovative sourcing models that have delivered tens of millions in cost reductions
+- Experience in vendor management, contract negotiation, and sourcing strategy across multiple industries
+- Education: BBA in Finance from University of Notre Dame, JD from Whittier Law School
+
+**Key Contributions to HomeAIQ:**
+- Design and implement HomeAIQ's manufacturer partnership program to secure substantial discounts (30-40%)
+- Create win-win strategic relationships with premium hardware vendors
+- Develop vendor management processes and negotiation playbooks
+- Establish volume purchasing structures and exclusive partnership agreements
+- Build sustainable competitive advantage through preferential pricing and terms
+- Train and mentor HomeAIQ's procurement team on strategic sourcing practices
+
+John's exceptional sourcing experience will be instrumental in establishing HomeAIQ's core manufacturer relationships - a critical element of our business strategy and competitive advantage.
+
+## Additional Advisor Profiles
+
+HomeAIQ will target additional advisors with the following profiles, backgrounds, and specific contributions:
 
 ### 1. Smart Home Technology Experts
 

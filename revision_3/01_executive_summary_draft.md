@@ -163,12 +163,24 @@ While leveraging Home Assistant's open-source foundation, HomeAIQ would develop 
 
 HomeAIQ would strategically supplement its executive team with a world-class advisory board:
 
-### Strategic Advisory Structure
-HomeAIQ would assemble 8-10 advisors across five key domains:
+### Key Strategic Advisor
+HomeAIQ has already secured a commitment from a critical strategic advisor:
+
+**John Eicher - Strategic Sourcing & Vendor Relationship Advisor**  
+Senior Manager at The Walt Disney Company, Enterprise Sourcing - Professional Services
+
+John brings over 25 years of elite strategic sourcing experience with major corporations including Disney, Amgen, Paramount Pictures, and NBCUniversal. His expertise in negotiating substantial vendor discounts and creating win-win strategic supplier relationships will be instrumental in:
+- Securing 30-40% preferential pricing from hardware manufacturers
+- Developing exclusive partnership agreements with premium vendors
+- Creating sustainable hardware procurement advantages
+- Building HomeAIQ's manufacturer relationship strategy
+
+### Additional Advisory Structure
+HomeAIQ would complement John's expertise with 8-10 additional advisors across five key domains:
 - **Technical Foundation**: Including Home Assistant core contributors and IoT security experts
 - **Integration Industry**: Former executives from legacy integrators with industry insights
 - **Luxury Home Markets**: High-end developers and designers with affluent client understanding
-- **Ecosystem Relationships**: Former leaders from Apple, Google, or Amazon smart home divisions
+- **Ecosystem Influencers**: Smart home content creators with large social media followings
 - **Business Scaling**: Executives who have successfully scaled service operations nationwide
 
 This advisory structure would provide specialized expertise, enhance investor confidence, and create valuable industry connections while the full executive team is established.
