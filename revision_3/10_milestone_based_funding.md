@@ -7,85 +7,64 @@ This document outlines HomeAIQ's revised capital-efficient, milestone-based fund
 
 ## Milestone-Based Funding Structure
 
-HomeAIQ would structure its $53.9M total funding requirement into four strategically sequenced phases:
+HomeAIQ would structure its $53.9M total funding requirement into three precisely calibrated rounds that align with financial projections and business achievements:
 
-### Phase 1: Acquisition & Proof of Concept ($8.5M)
-Focused on acquiring a legacy integrator and demonstrating initial model validation.
-
-**Capital Allocation:**
-- Strategic acquisition of California integrator: $3.5M
-- Technical infrastructure and conversion system: $2.0M
-- Customer conversion and initial new sales: $1.0M
-- Working capital and contingency: $2.0M
-
-**Key Milestones Required for Next Phase:**
-- Successful acquisition and 90% technical team retention
-- 50+ customers on HomeAIQ platform (converted + new)
-- Validated gross margins exceeding 30% on new model
-- Demonstrated remote resolution of 65%+ of support issues
-- At least 10 new customers acquired under HomeAIQ model
-- Subscription attach rate >40% for converted customers
-
-**Milestone Timeframe:** 6-9 months from initial funding
-
-### Phase 2: California Beachhead ($12M)
-Focused on establishing strong profitability in initial market while expanding to second location.
+### Initial Round: Acquisition & Foundation ($13M equity + $5M debt)
+Focused on acquiring 1-2 legacy integrators and establishing core infrastructure in California markets.
 
 **Capital Allocation:**
-- Second California location establishment: $4.0M
-- Operations and support center scaling: $3.0M
-- Customer acquisition strategy execution: $3.0M
-- Enhanced technology platform development: $2.0M
+- Strategic acquisition of 1-2 California integrators: $9.0M
+- Technical platform implementation and standardization: $3.5M
+- Vendor relationship establishment and supply chain: $2.5M
+- Working capital and operation reserves: $3.0M
 
-**Key Milestones Required for Next Phase:**
-- 150+ total customers across both locations
-- Positive EBITDA in initial acquired location
-- Recurring revenue reaching 6% of total revenue
-- Customer acquisition cost below $8,500
-- 75%+ gross margins on subscription services
-- Net Promoter Score >60 across customer base
-- Technical team capacity utilization >85%
+**Success Triggers:**
+- Complete 1-2 strategic California acquisitions
+- Establish core technology platform and proprietary integrations
+- Launch operations in Los Angeles and San Francisco markets
+- Initial platform deployment and customer base integration
 
-**Milestone Timeframe:** 12-15 months from Phase 1 funding
+**Timeline:** Year 1
 
-### Phase 3: Regional Expansion ($15M)
-Focused on proving multi-market scalability and refining the expansion playbook.
+### Series A: Regional Expansion ($16.5M equity + $7M debt)
+Triggered by achieving ALL of the following measurable milestones:
 
 **Capital Allocation:**
-- Expansion to 4 additional strategic markets: $10.0M
-- Advanced technology platform development: $3.0M
-- Centralized support and monitoring scaling: $2.0M
+- Expansion to multiple regional markets: $12.0M
+- Advanced technology platform development: $4.5M
+- Centralized support and monitoring scaling: $3.5M
+- Team expansion and management infrastructure: $3.5M
 
-**Key Milestones Required for Next Phase:**
-- 400+ total customers across all locations
-- All initial locations at positive EBITDA
-- Successful implementation of cross-market support model
-- Reduction in implementation time by 35%
-- Recurring revenue reaching 8% of total revenue
-- Technical platform supporting 99.9% uptime
-- Customer retention rate exceeding 92%
-- Proven ability to open new market in under 75 days
+**Required Milestone Achievements:**
+- **Financial Validation**: Minimum $4M annual EBITDA with demonstrated positive unit economics at location level
+- **Operational Excellence**: 5+ operational locations with proven service delivery model
+- **Customer Traction**: 375+ customers with documented 45%+ support subscription conversion rate
+- **Technical Advancement**: Completed development of at least three proprietary HomeAIQ technology extensions
+- **Vendor Leverage**: Secured vendor relationships with documented hardware margins averaging 22%+
+- **Market Validation**: Demonstrated ability to turn around legacy integration businesses with 20%+ margin improvement
 
-**Milestone Timeframe:** 18-24 months from Phase 2 funding
+**Timeline:** Year 3
 
-### Phase 4: National Scale ($18.4M)
-Focused on accelerated nationwide expansion leveraging proven model.
+### Series B: Scaling Infrastructure ($6M equity + $4M debt)
+Triggered by achieving ALL of the following measurable milestones:
 
 **Capital Allocation:**
-- Accelerated market expansion to 20+ total markets: $15.0M
-- Platform completion and optimization: $3.4M
+- Accelerated market expansion funding: $6.0M
+- Enterprise-grade platform enhancements: $2.0M
+- Regional management structure implementation: $1.0M
+- Strategic acquisition war chest: $1.0M
 
-**Key Milestones:**
-- 1,000+ total customers nationwide
-- Group-level EBITDA exceeding 15%
-- Recurring revenue reaching 10% of total revenue
-- Leadership team complete with proven performers
-- Technical platform supporting 5,000+ managed devices per support engineer
-- Consistent implementation methodology across all markets
-- Strategic partnership agreements with key ecosystem players
-- Exit readiness with multiple potential acquirers identified
+**Required Milestone Achievements:**
+- **Operational Scale**: Successful deployment in at least 12 distinct metropolitan markets
+- **Financial Performance**: Minimum $10M annual EBITDA with support revenue exceeding 8% of total revenue
+- **Customer Density**: 800+ customers with geographic concentration enabling efficient service delivery
+- **Technical Maturity**: Fully operational centralized monitoring and support infrastructure
+- **Team Development**: Established regional management structure with demonstrated ability to maintain service quality
+- **Acquisition Efficiency**: Proven playbook for rapid integration of acquired businesses with <6 month full transition timeline
 
-**Milestone Timeframe:** 24-36 months from Phase 3 funding
+**Timeline:** Year 5
+
+This meticulously structured approach provides investors with clear visibility into business performance at each funding stage and ensures capital is deployed only after HomeAIQ has conclusively demonstrated achievement of critical business milestones, substantially reducing investment risk while preserving the ambitious growth trajectory.
 
 ## Financial Metrics by Phase
 

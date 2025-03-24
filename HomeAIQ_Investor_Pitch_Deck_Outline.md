@@ -47,13 +47,17 @@
 - **Operational Efficiency**: Overhead declining from 43% to 28% of net revenue
 - **Unit Economics**: Visualization showing improving margins as support revenue grows
 
-## 9. Funding & Use of Capital
-- **Capital Requirements**: $53.9M total across three rounds
-  - Seed/Initial (Year 1): $17.7M
-  - Series A (Year 3): $24.5M 
-  - Series B (Year 5): $11.7M
-- **Use of Funds**: Visual showing allocation to expansion, technology, and operations
-- **Investment Returns**: 5.5× ROI by Year 7 (452% return)
+## 9. Performance-Triggered Funding Approach
+- **Capital-Efficient Structure**: $51.5M total deployed only when specific milestones are achieved
+  - Initial Round (Year 1): $13M equity + $5M debt
+  - Series A (Year 3): $16.5M equity + $7M debt, triggered by performance metrics
+  - Series B (Year 5): $6M equity + $4M debt, triggered by scaling metrics
+- **Risk Reduction**: Verification of business performance before each capital deployment
+  - Financial milestones: $4M+ EBITDA (Series A), $10M+ EBITDA (Series B)
+  - Customer metrics: 375+ customers (Series A), 800+ customers (Series B)
+  - Technical validation: Proprietary extensions, centralized monitoring platform
+- **Capital Allocation**: Visual showing deployment across acquisitions, technology, and market expansion
+- **Investment Returns**: 5.5× ROI by Year 7 (452% return) with de-risked capital structure
 
 ## 10. Competitive Advantages & Moats
 - **Open-Source Leadership**: Community-driven development velocity

@@ -105,13 +105,15 @@ Key metrics at Year 7:
 
 ## 4. Capital Structure and Funding Requirements
 
-### Investment Rounds
-| Round | Year | Equity | Debt | Total | Purpose |
-|-------|------|--------|------|-------|---------|
-| Seed/Initial | 1 | $13.28M | $4.43M | $17.70M | Launch 2 locations (LA, SF) |
-| Series A | 3 | $17.15M | $7.35M | $24.50M | Expand to 8 locations |
-| Series B | 5 | $7.02M | $4.68M | $11.70M | Scale to 16+ locations |
-| **Total** | | **$37.45M** | **$16.46M** | **$53.90M** | **31 locations by Year 7** |
+### Milestone-Based Investment Rounds
+| Round | Year | Equity | Debt | Total | Purpose | Key Performance Triggers |
+|-------|------|--------|------|-------|---------|--------------------------|
+| Initial Round | 1 | $13.00M | $5.00M | $18.00M | 1-2 California acquisitions, platform development | Initial platform deployment, acquired customer integration |
+| Series A | 3 | $16.50M | $7.00M | $23.50M | Regional expansion to 8 locations | $4M+ EBITDA, 375+ customers, 45%+ subscription rate, 5+ operational locations |
+| Series B | 5 | $6.00M | $4.00M | $10.00M | Scale to 16+ locations | $10M+ EBITDA, 800+ customers, 12+ markets, 8%+ of revenue from support |
+| **Total** | | **$35.50M** | **$16.00M** | **$51.50M** | **31 locations by Year 7** | **Performance-validated progression to scale** |
+
+This milestone-based funding approach significantly reduces investor risk by ensuring capital is deployed only after HomeAIQ has conclusively demonstrated achievement of critical business milestones at each stage. Rather than committing the full investment upfront, investors can verify operational performance, financial metrics, and technical capability before proceeding to subsequent funding rounds.
 
 ### Cash Flow Projection
 | Year | Capital Investment | Cash Cushion Target | Total Investment Needed | Capital Flow | Cumulative Balance |
