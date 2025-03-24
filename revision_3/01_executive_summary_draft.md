@@ -79,35 +79,17 @@ HomeAIQ projects strong, sustainable growth:
 - **Support Revenue**: Growing to 10.7% of total revenue by Year 7
 - **Projected Exit**: 9.8× EBITDA multiple (Year 7 valuation: $297.5M)
 
-### Capital-Efficient, Performance-Triggered Funding Approach
+### Performance-Triggered Funding Approach
 
-Rather than raising the full $53.9M at once, HomeAIQ would implement a precisely calibrated milestone-based funding structure that aligns capital deployment with validated business achievements, significantly de-risking investment at each stage:
+HomeAIQ proposes a capital-efficient funding structure of $51.5M deployed across three rounds, with each round triggered only after achieving specific business milestones—significantly de-risking investment while maintaining our ambitious growth trajectory:
 
-- **Initial Round: Acquisition & Foundation** ($13M equity + $5M debt)
-  - Complete 1-2 strategic California acquisitions
-  - Establish core technology platform and proprietary integrations
-  - Launch operations in Los Angeles and San Francisco markets
-  - **Success Triggers**: Initial platform deployment, acquired customer base integration
+- **Initial Round** ($13M equity + $5M debt): For acquiring 1-2 California integrators, establishing our technology platform, and launching in Los Angeles and San Francisco
 
-- **Series A: Regional Expansion** ($16.5M equity + $7M debt, Year 3)
-  **Triggered by achieving ALL of the following measurable milestones:**
-  - **Financial Validation**: Minimum $4M annual EBITDA with demonstrated positive unit economics at location level
-  - **Operational Excellence**: 5+ operational locations with proven service delivery model
-  - **Customer Traction**: 375+ customers with documented 45%+ support subscription conversion rate
-  - **Technical Advancement**: Completed development of at least three proprietary HomeAIQ technology extensions
-  - **Vendor Leverage**: Secured vendor relationships with documented hardware margins averaging 22%+
-  - **Market Validation**: Demonstrated ability to turn around legacy integration businesses with 20%+ margin improvement
+- **Series A** ($16.5M equity + $7M debt, Year 3): Triggered by validated metrics including $4M+ EBITDA, 375+ customers, and proven operations across 5+ locations
 
-- **Series B: Scaling Infrastructure** ($6M equity + $4M debt, Year 5)
-  **Triggered by achieving ALL of the following measurable milestones:**
-  - **Operational Scale**: Successful deployment in at least 12 distinct metropolitan markets
-  - **Financial Performance**: Minimum $10M annual EBITDA with support revenue exceeding 8% of total revenue
-  - **Customer Density**: 800+ customers with geographic concentration enabling efficient service delivery
-  - **Technical Maturity**: Fully operational centralized monitoring and support infrastructure
-  - **Team Development**: Established regional management structure with demonstrated ability to maintain service quality
-  - **Acquisition Efficiency**: Proven playbook for rapid integration of acquired businesses with <6 month full transition timeline
+- **Series B** ($6M equity + $4M debt, Year 5): Released upon achieving $10M+ EBITDA, 800+ customers, and successful deployment across 12+ metropolitan markets
 
-This meticulously structured approach provides investors with clear visibility into business performance at each funding stage and ensures capital is deployed only after HomeAIQ has conclusively demonstrated achievement of critical business milestones, substantially reducing investment risk while preserving the ambitious growth trajectory.
+This approach ensures capital is deployed only after HomeAIQ has conclusively demonstrated operational excellence and financial performance at each stage, creating a win-win structure for both investors and the company.
 
 ## Founder & Leadership Team
 
