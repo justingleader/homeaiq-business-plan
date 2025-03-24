@@ -18,12 +18,21 @@ The smart home market has evolved significantly, with Apple, Google, and Amazon 
 
 Consider a hypothetical Palo Alto homeowner who has invested $14,000 in smart devices from 8 different manufacturers across 3 ecosystems (Apple, Google, and Lutron). Despite the investment, their home requires 6 different apps, multiple hubs, and constant troubleshooting. Other integrators typically quote $60,000+ to replace everything with a proprietary system.
 
-HomeAIQ would deliver a comprehensive solution for $22,500 that:
-- Integrates all existing devices through Home Assistant
-- Adds strategic new components where needed
-- Creates a single, unified control interface
-- Implements sophisticated automations impossible within any single ecosystem
-- Provides 24/7 remote monitoring and support
+HomeAIQ offers flexible solutions tailored to customer needs:
+
+**Basic Integration Package: $1,500**
+- Unifies existing devices through Home Assistant without replacing equipment
+- Creates a single control interface replacing the 6 separate apps
+- Implements sophisticated cross-ecosystem automations
+- Provides basic monitoring and support
+
+**Premium Enhancement Package: $22,500**
+- Includes everything in the Basic Integration
+- Preserves all high-quality existing equipment (no replacement of working technology)
+- Adds significant new capabilities in entertainment, security, air quality, or other areas
+- Installs additional strategic components to enhance functionality
+- Delivers comprehensive 24/7 remote monitoring and support
+- Creates a truly premium experience without the $60,000+ price tag of competitors
 
 ## Market Opportunity & Timing
 
