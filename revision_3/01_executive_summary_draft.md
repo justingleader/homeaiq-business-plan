@@ -81,32 +81,33 @@ HomeAIQ projects strong, sustainable growth:
 
 ### Capital-Efficient, Performance-Triggered Funding Approach
 
-Rather than raising the full $53.9M at once, HomeAIQ would implement a milestone-based funding structure that aligns capital deployment with operational readiness for scale:
+Rather than raising the full $53.9M at once, HomeAIQ would implement a precisely calibrated milestone-based funding structure that aligns capital deployment with validated business achievements, significantly de-risking investment at each stage:
 
-- **Phase 1: Strategic Acquisitions & Operational Optimization** ($8.5M)
-  - 1-2 strategic acquisitions of California integrators
-  - Initial technology platform implementation and standardization
-  - Establishment of vendor relationships and supply chain
-  - Key metrics: 50+ customers, >30% gross margins, and defined operational KPIs
+- **Initial Round: Acquisition & Foundation** ($13M equity + $5M debt)
+  - Complete 1-2 strategic California acquisitions
+  - Establish core technology platform and proprietary integrations
+  - Launch operations in Los Angeles and San Francisco markets
+  - **Success Triggers**: Initial platform deployment, acquired customer base integration
 
-- **Phase 2: California Market Optimization** ($12M, triggered by Phase 1 metrics)
-  - Expansion to second California location
-  - Refinement of marketing and sales processes
-  - Development of proprietary extensions and automation templates
-  - Key metrics: 150+ customers, positive EBITDA in initial locations, customer acquisition cost targets
+- **Series A: Regional Expansion** ($16.5M equity + $7M debt, Year 3)
+  **Triggered by achieving ALL of the following measurable milestones:**
+  - **Financial Validation**: Minimum $4M annual EBITDA with demonstrated positive unit economics at location level
+  - **Operational Excellence**: 5+ operational locations with proven service delivery model
+  - **Customer Traction**: 375+ customers with documented 45%+ support subscription conversion rate
+  - **Technical Advancement**: Completed development of at least three proprietary HomeAIQ technology extensions
+  - **Vendor Leverage**: Secured vendor relationships with documented hardware margins averaging 22%+
+  - **Market Validation**: Demonstrated ability to turn around legacy integration businesses with 20%+ margin improvement
 
-- **Phase 3: Regional Scale Execution** ($15M, triggered by Phase 2 metrics)
-  - Rapid expansion to 4 additional strategic markets using proven playbook
-  - Implementation of regional management structure
-  - Deployment of optimized technology stack and operational processes
-  - Key metrics: 400+ customers, multi-market operational efficiency targets
+- **Series B: Scaling Infrastructure** ($6M equity + $4M debt, Year 5)
+  **Triggered by achieving ALL of the following measurable milestones:**
+  - **Operational Scale**: Successful deployment in at least 12 distinct metropolitan markets
+  - **Financial Performance**: Minimum $10M annual EBITDA with support revenue exceeding 8% of total revenue
+  - **Customer Density**: 800+ customers with geographic concentration enabling efficient service delivery
+  - **Technical Maturity**: Fully operational centralized monitoring and support infrastructure
+  - **Team Development**: Established regional management structure with demonstrated ability to maintain service quality
+  - **Acquisition Efficiency**: Proven playbook for rapid integration of acquired businesses with <6 month full transition timeline
 
-- **Phase 4: National Acceleration** ($18.4M, triggered by Phase 3 metrics)
-  - Accelerated expansion to 20+ markets nationwide
-  - Scaling of centralized support and technology infrastructure
-  - Optimization for profitable growth and exit readiness
-
-This phased approach significantly reduces investor risk by ensuring capital is deployed only after operational readiness is demonstrated at each stage, with the understanding that the core business elements (technology, market demand, service approach) are already proven.
+This meticulously structured approach provides investors with clear visibility into business performance at each funding stage and ensures capital is deployed only after HomeAIQ has conclusively demonstrated achievement of critical business milestones, substantially reducing investment risk while preserving the ambitious growth trajectory.
 
 ## Founder & Leadership Team
 
