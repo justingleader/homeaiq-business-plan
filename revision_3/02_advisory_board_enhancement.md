@@ -41,69 +41,94 @@ HomeAIQ will assemble a balanced advisory board with 8-10 members across five ke
 - **Multi-Location Service Business Expert**: Experience scaling service operations across markets
 - **Open-Source Business Model Expert**: Success commercializing open-source technology
 
-## Specific Advisory Board Targets
+## Advisor Profiles and Contributions
 
-HomeAIQ has identified these high-priority advisory board candidates:
+HomeAIQ will target advisors with the following profiles, backgrounds, and specific contributions:
 
-### Technical Foundation
-1. **Dr. Paulus Schoutsen** - Founder and Chief Technology Officer, Home Assistant (Netherlands)
-   - **Key Value**: Direct connection to Home Assistant development roadmap
-   - **Approach Strategy**: Justin to leverage mutual connections in open-source community
-   - **Compensation Structure**: 0.25% equity with milestone-based vesting
+### 1. Smart Home Technology Experts
 
-2. **Dr. Sandra Rivera** - Former VP, IoT Systems Architecture at Intel (California)
-   - **Key Value**: Enterprise-grade implementation experience and technical scaling expertise
-   - **Approach Strategy**: Through Intel Capital connections
-   - **Compensation Structure**: 0.2% equity with quarterly retainer
+**Profile:** Technology leaders with deep expertise in home automation platforms and implementation
 
-3. **Michael Chen** - Chief Security Architect, Akamai Technologies (Massachusetts)
-   - **Key Value**: Deep expertise in securing connected environments at scale
-   - **Approach Strategy**: Introduction through cybersecurity industry connections
-   - **Compensation Structure**: 0.15% equity with success fees for security framework development
+**Key Backgrounds:**
+- Home Assistant core contributors or active community members
+- IoT systems architects from enterprise technology companies
+- Smart home security specialists with deep technical knowledge
+- Connected device specialists with cross-platform expertise
 
-### Integration Industry
-4. **Jennifer Williamson** - Former Senior VP, Control4 (Utah)
-   - **Key Value**: Inside knowledge of legacy integration business model and limitations
-   - **Approach Strategy**: Direct approach through LinkedIn (recently departed Control4)
-   - **Compensation Structure**: 0.25% equity with acquisition advisory success fees
+**Expected Contributions:**
+- Provide guidance on technical roadmap and implementation strategies
+- Advise on best practices for reliability, scalability, and security
+- Help navigate emerging standards (Matter, Thread, etc.)
+- Assist with complex integration challenges and edge cases
+- Validate technical approaches and architectural decisions
 
-5. **Robert Brunner** - Technical Director, Hermitage Projects (New York)
-   - **Key Value**: 15+ years implementing ultra-high-end residential projects
-   - **Approach Strategy**: Introduction through mutual industry connections
-   - **Compensation Structure**: 0.15% equity with quarterly retainer
+### 2. Hardware Manufacturer Executives
 
-### Luxury Home Markets
-6. **Thomas Richards** - Managing Director, Peninsula Luxury Homes (California)
-   - **Key Value**: Deep connections with luxury home builders in Silicon Valley
-   - **Approach Strategy**: Direct outreach (Justin's previous client)
-   - **Compensation Structure**: 0.15% equity with success fees for developer introductions
+**Profile:** Leaders from premium smart home hardware companies with strategic partnership experience
 
-7. **Elizabeth Chen** - Principal, Elevated Interiors (California)
-   - **Key Value**: Designer for ultra-high-net-worth clients with smart home expertise
-   - **Approach Strategy**: Introduction through Thomas Richards
-   - **Compensation Structure**: 0.15% equity with market expansion consulting fees
+**Key Backgrounds:**
+- Current or former executives at companies like Lutron, Control4, or Savant
+- Product leaders from smart home device manufacturers
+- Business development directors with cross-ecosystem experience
+- Alliance managers from major hardware platforms
 
-### Ecosystem Relationships
-8. **Dr. David Miller** - Former Director of Product, Google Nest (California)
-   - **Key Value**: Deep understanding of ecosystem strategy and partnership opportunities
-   - **Approach Strategy**: Through venture capital connections
-   - **Compensation Structure**: 0.2% equity with partnership success fees
+**Expected Contributions:**
+- Facilitate strategic partnership discussions and introductions
+- Provide insights on manufacturer business models and priorities
+- Help secure preferential pricing and early access to new products
+- Advise on hardware selection and compatibility considerations
+- Potentially create acquisition interest and relationships
 
-9. **Sarah Johnson** - VP Strategic Alliances, Lutron Electronics (Pennsylvania)
-   - **Key Value**: Experience managing relationships across all major ecosystems
-   - **Approach Strategy**: Introduction through integration industry contacts
-   - **Compensation Structure**: 0.15% equity with partnership development consulting
+### 3. Luxury Market Specialists
 
-### Business Scaling
-10. **James Williams** - Founder and former CEO, ServiceMasters Elite (Texas)
-    - **Key Value**: Built nationwide service business with 28 locations
-    - **Approach Strategy**: Direct outreach through professional networks
-    - **Compensation Structure**: 0.2% equity with operational consulting fees
+**Profile:** Professionals with deep experience serving high-end residential clients
 
-11. **Dr. Lisa Chen** - Former Chief Strategy Officer, MongoDB (New York)
-    - **Key Value**: Experience commercializing open-source technology
-    - **Approach Strategy**: Through Cornell University alumni network
-    - **Compensation Structure**: 0.2% equity with quarterly retainer
+**Key Backgrounds:**
+- Luxury real estate developers with smart home integration experience
+- High-end interior designers working with affluent clientele
+- Customer experience experts specializing in premium services
+- Professionals serving high-net-worth individuals
+
+**Expected Contributions:**
+- Provide insights into affluent customer expectations and preferences
+- Facilitate introductions to luxury development projects and communities
+- Advise on premium service design and customer experience
+- Help refine marketing messaging for luxury segments
+- Create referral relationships with complementary luxury service providers
+
+### 4. Service Business Scale Experts
+
+**Profile:** Executives who have successfully built and scaled multi-location service operations
+
+**Key Backgrounds:**
+- Founders or executives from residential service businesses
+- Leaders who have scaled technical service operations nationally
+- Operations experts with multi-location management experience
+- Customer service leaders from premium service organizations
+
+**Expected Contributions:**
+- Share proven methodologies for geographical expansion
+- Advise on operational efficiency and standardization
+- Provide guidance on service team structure and management
+- Help design training programs and quality assurance systems
+- Advise on balancing centralized and local operations
+
+### 5. Integration Industry Veterans
+
+**Profile:** Experienced professionals from traditional integration companies with insider knowledge
+
+**Key Backgrounds:**
+- Former executives from legacy integration companies
+- Project leaders with extensive implementation experience
+- Technical directors who understand complex integration challenges
+- Professionals with both traditional and open-source integration experience
+
+**Expected Contributions:**
+- Provide insights into legacy integrator limitations and vulnerabilities
+- Share best practices for complex implementation scenarios
+- Advise on customer pain points and how to address them
+- Help identify key differentiators versus traditional approaches
+- Assist with positioning and competitive strategy
 
 ## Advisory Board Structure and Governance
 
@@ -171,11 +196,12 @@ HomeAIQ will implement this advisory board strategy in three phases:
 The advisory board strategy will be positioned to investors as a key risk mitigation approach:
 
 ### Key Investor Messages
-1. "HomeAIQ has assembled world-class advisors who have 'been there, done that' in each critical aspect of our business"
-2. "Our advisory structure provides real-time access to specialized expertise without the full cost of executive hires"
-3. "Advisors' willingness to accept equity compensation demonstrates their belief in our business model"
-4. "The advisory board provides critical ecosystem relationships that accelerate our go-to-market strategy"
-5. "Technical advisors validate our open ecosystem approach with deep domain expertise"
+1. "HomeAIQ's advisory strategy brings together industry leaders who provide critical expertise, insights, and connections across all key aspects of our business"
+2. "Our advisory structure delivers real-time access to specialized knowledge at a fraction of the cost of full executive hires"
+3. "The advisory board includes hardware manufacturer relationships that enhance both operational advantages and potential exit opportunities"
+4. "Our advisors provide direct connections to premium markets, luxury developers, and strategic implementation opportunities"
+5. "Technology and implementation advisors validate our approach while reducing execution risk"
+6. "Service business scaling experts provide proven methodologies for efficient geographical expansion"
 
 ### Advisor Introductions in Investor Presentations
 - Brief advisor biographies included in pitch materials
@@ -186,22 +212,25 @@ The advisory board strategy will be positioned to investors as a key risk mitiga
 
 ## Expected Impact on Investor Concerns
 
-The enhanced advisory board directly addresses key investor concerns:
+The strategic advisory board directly addresses key investor concerns across different investor profiles:
 
-### Michael Harrington (PE LP) Concerns
+### Private Equity Investor Concerns
 - **Incomplete Executive Team**: Advisors complement founding team before full executive hires
 - **Pre-Revenue Stage**: Industry advisors validate business model and market opportunity
 - **Timeline Risk**: Business scaling experts accelerate execution timeline
+- **Exit Strategy**: Hardware manufacturer executives create potential acquisition paths
 
-### Sarah Chen (Angel) Concerns
-- **Technical Leadership Gap**: Home Assistant expertise through technical advisors
+### Technology Investor Concerns
+- **Technical Leadership Gap**: Smart home technology experts provide specialized expertise
 - **Technical Execution Risk**: Implementation experts reduce technical delivery risk
 - **IP Protection**: Strategic guidance on balancing open/closed source development
+- **Competitive Differentiation**: Insights on creating sustainable competitive advantages
 
-### William Thornton (Family Office) Concerns
+### Family Office/Long-Term Investor Concerns
 - **Leadership Depth**: Advisors extend leadership capabilities in critical domains
 - **Operational History**: Seasoned operators provide proven methodologies and processes
 - **Luxury Market Competition**: Direct expertise in high-end integration market
+- **Sustainable Growth**: Guidance on building lasting customer relationships and brand value
 
 ## Next Steps
 
