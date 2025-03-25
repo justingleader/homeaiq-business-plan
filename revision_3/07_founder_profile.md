@@ -1,50 +1,43 @@
 # Justin Leader: Founder Profile
-*CONFIDENTIAL - March 22, 2025*
+*CONFIDENTIAL - March 24, 2025*
 
-## Technical and Business Leadership
-Justin Leader brings a rare combination of deep technical expertise and business scaling experience to HomeAIQ. His dual background bridges the often-challenging gap between technical innovation and commercial execution—a critical advantage for HomeAIQ's ambitious mission.
+## Technology Solutions & Growth Leadership
+Justin Leader brings a proven track record of scaling technology businesses and delivering complex enterprise solutions to HomeAIQ. His experience building and leading service-oriented technology companies provides the perfect foundation for HomeAIQ's ambitious growth strategy.
 
-## Technical Expertise
-- **Home Automation Engineering**: Hands-on experience designing and implementing Home Assistant installations with complex multi-ecosystem integrations
-- **AI Integration Architecture**: Developed AI-enabled organizational change platforms for enterprise clients
-- **Technical Solution Design**: Personally designed high-performance technical solutions that generated $165M in lifetime technology sales with a 68% win rate
-- **Enterprise Security & Governance**: Created security frameworks for sensitive enterprise environments that satisfied C-suite requirements
-- **System Architecture**: Designed scalable technical architectures for mission-critical applications with 99.9% uptime requirements
+## Entrepreneurial Success
+As Founder/CEO of HyperVelocity Consulting:
+- Built Atlassian and Agile consulting firm from startup to successful acquisition by Isos Technology in 2023
+- Grew organization to 47 staff members through focus on excellence and customer experience
+- Led sales team while personally engineering solutions for enterprise pre-sales opportunities
+- Specialized in solving complex problems for diverse departments including development, finance, HR, marketing, legal, security, and facilities
+- Achieved 95% year-over-year customer value expansion through trust-building and ROI demonstration
+
+## Enterprise Technology Sales
+- Generated $165M in lifetime technology sales with impressive 68% win rate
+- Developed "Art of the Possible" sales approach focused on solving problems rather than pushing products
+- Won competitive deals through detailed, thoughtful proposals that outperformed competitors
+- Built long-term client relationships with global brands including Disney, Samsung Semiconductor, Dell, Anthem Healthcare, Accenture, Electronic Arts, Capital Group, US Air Force, and many others
+- Saved The Aerospace Corporation $5M+ by designing custom budgeting tools instead of recommending expensive enterprise software
+
+## Technical Leadership 
+- Coordinated development for $25M software project at Big Red Button Entertainment
+- Grew technical operations from 13 to 65 employees while maintaining budget constraints
+- Deployed custom Agile development methodologies to ensure on-time delivery
+- Built initial HR, administrative, and IT departments from ground up
+- Pitched and won major development deals through strategic stakeholder alignment
+
+## Complex Solution Implementation
+- Reduced cycle time in Dell's $10B+ PowerEdge server business through automated workflow tools
+- Unblocked $3M in technology spend at Palo Alto Networks by developing security and governance plans
+- Enabled secure outsourcing of IT tools support for Samsung Austin Semiconductor
+- Designed portfolio management tooling for Hewlett Packard Enterprise spinoff companies
+- Increased productivity 40% at The Aerospace Corporation through reorganizing teams and implementing custom workflows
+- Saved clients millions through innovative alternatives to expensive enterprise software
 
 ## Education
-- **Master of Science**: Information Systems Management, Carnegie Mellon University
-- **Bachelor of Science**: Computer Science with Business Minor, Cornell University
-- **Certifications**: AI Strategy (MIT), Cloud Architecture (AWS), Enterprise Security (ISC²)
-
-## Previous Venture Success
-As Founder/CEO of HyperVelocity Consulting:
-- Grew from founding to 47 staff with $24M annual revenue
-- Served enterprise clients including Disney, Samsung, Dell, and US Air Force
-- Achieved successful exit through acquisition by Isos Technology
-- Maintained 95% year-over-year customer value expansion
-- Structured and led technical delivery teams across multiple disciplines
-- Designed AI-enabled organizational transformation programs that increased client productivity by 40%
-
-## Technical Leadership Experience
-- **Team Scaling**: Grew technical team from 13 to 65 while maintaining budget constraints
-- **Portfolio Management**: Implemented enterprise portfolio and program management systems that achieved 92% on-time delivery
-- **Technical Sales**: Personally led technical sales processes for enterprise deals exceeding $5M in value
-- **Innovation Leadership**: Designed proprietary methodology for AI-enabled technical transformation
-- **Cross-Functional Alignment**: Built consensus across technical and business stakeholders on complex initiatives
-
-## Current Advisory Work
-- Advising investment banks including Barclays and Wells Fargo on AI implementation strategy
-- Consulting on AI-enabled service delivery models for Fortune 500 clients
-- Developing technical frameworks for managed service operations in regulated industries
-- Creating AI governance models for enterprise technology operations
-- Designing next-generation AIOps platforms for mission-critical environments
-
-## Smart Home & IoT Expertise
-- Extensive personal implementation experience with Home Assistant ecosystems
-- Designed complex multi-site smart home installations with remote management capabilities
-- Created and implemented cross-ecosystem automation strategies
-- Developed security hardening approaches for connected home environments
-- Implemented cloud-to-edge architectures for responsive IoT deployment
+- **Master's Degree**: Carnegie Mellon University
+- **Bachelor's Degree**: Cornell University
+- **Professional Certifications**: Atlassian Certified Professional, SAFe Program Consultant
 
 ## HomeAIQ Vision
-Justin founded HomeAIQ to revolutionize smart home integration through open ecosystem orchestration. He recognized that applying enterprise-grade integration approaches to residential environments could solve critical pain points while creating compelling business economics. His combination of technical depth and business leadership provides the foundation for HomeAIQ's disruptive approach.
+Justin's vision for HomeAIQ stems from his passion for solving complex integration challenges combined with his expertise in building service-oriented businesses. By applying the enterprise-grade solution design approach that made his previous venture successful to the smart home integration space, Justin aims to create a revolutionary service that delivers exceptional value to homeowners while building a highly scalable business.
