@@ -1,3 +1,5 @@
+# 11_research_projects_with_context.md
+
 # HomeAIQ Research Projects with Essential Context
 *CONFIDENTIAL - March 22, 2025*
 

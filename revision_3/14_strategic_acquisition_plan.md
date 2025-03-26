@@ -1,3 +1,5 @@
+# 14_strategic_acquisition_plan.md
+
 # Strategic Acquisition Plan for Immediate Market Traction
 *CONFIDENTIAL - March 22, 2025*
 

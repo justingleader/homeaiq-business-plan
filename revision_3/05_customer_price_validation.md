@@ -1,3 +1,5 @@
+# 05_customer_price_validation.md
+
 # Customer Price Validation Strategy
 *CONFIDENTIAL - March 22, 2025*
 

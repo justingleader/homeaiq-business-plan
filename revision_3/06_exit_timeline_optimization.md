@@ -1,3 +1,5 @@
+# 06_exit_timeline_optimization.md
+
 # Exit Timeline Optimization Strategy
 *CONFIDENTIAL - March 22, 2025*
 

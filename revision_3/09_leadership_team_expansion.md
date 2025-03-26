@@ -1,3 +1,5 @@
+# 09_leadership_team_expansion.md
+
 # Leadership Team Expansion Plan
 *CONFIDENTIAL - March 22, 2025*
 

@@ -1,3 +1,5 @@
+# 08_ip_strategy_technical_differentiation.md
+
 # IP Strategy & Technical Differentiation
 *CONFIDENTIAL - March 22, 2025*
 

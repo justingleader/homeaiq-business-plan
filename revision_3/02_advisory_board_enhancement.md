@@ -1,3 +1,5 @@
+# 02_advisory_board_enhancement.md
+
 # Advisory Board Enhancement Strategy
 *CONFIDENTIAL - March 22, 2025*
 

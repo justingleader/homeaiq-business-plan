@@ -1,3 +1,5 @@
+# 04_competitive_response_strategy.md
+
 # Competitive Response & Positioning Strategy
 *CONFIDENTIAL - March 25, 2025*
 

@@ -1,3 +1,5 @@
+# 10_milestone_based_funding.md
+
 # Capital-Efficient Expansion with Milestone-Based Funding
 *CONFIDENTIAL - March 22, 2025*
 

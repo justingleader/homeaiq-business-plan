@@ -1,3 +1,5 @@
+# 00_index.md
+
 # Revision 3 - Strategy Implementation
 *CONFIDENTIAL - March 2025*
 
