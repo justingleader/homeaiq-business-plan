@@ -12,6 +12,7 @@ We deliver superior integration experiences at disruptive price points by:
 2. **Avoiding vendor lock-in** to preserve client investments and enable future flexibility
 3. **Providing professional service and support** through our growing nationwide network
 4. **Adding proactive intelligence** via our AI layer for predictive maintenance and optimization
+5. **Harnessing open-source and market-leading AI** to deliver continuous innovation and superior value
 
 ## Dual-Brand Strategy
 
@@ -50,9 +51,10 @@ Our proprietary platform leverages the Home Assistant open-source core with six 
 * **Integration Services**: IoT integration services expected to hit $55 billion by 2032 (31.6% CAGR)
 * **Underserved Segment**: 80-90% of small-to-medium commercial buildings lack any automation
 
+
 ## Business Model & Revenue
 
-* **Hardware Sales**: 17-30% margin on curated third-party hardware
+* **Hardware Sales**: 17-40% margin on curated third-party hardware
 * **Installation Services**: 28% margin on professional integration
 * **Recurring Support**: 30%+ margin on tiered subscription plans
 * **Financial Trajectory**: From ~$21.4M revenue in Year 1 to ~$300M+ by Year 7
@@ -70,9 +72,9 @@ Our proprietary platform leverages the Home Assistant open-source core with six 
 ## Team Structure
 
 * **Leadership**: Founder/CEO Justin Leader with phased executive hiring plan:
-  * CTO (Year 1/2) - Technical platform development
+  * CTO (Year 1) - Technical platform development
   * VP/GM BusinessAIQ (Year 2/3) - Commercial vertical leadership
-  * COO (Year 3/4) - Nationwide operations scaling
+  * COO (Year 1) - Nationwide operations scaling
   * CFO (Year 3/4) - Financial strategy and M&A 
   * CRO (Year 4/5) - Revenue growth across brands
 * **Advisory Board**: World-class advisors with domain expertise across smart home, commercial, and IoT sectors
@@ -85,4 +87,4 @@ Our proprietary platform leverages the Home Assistant open-source core with six 
 
 ## Investment Thesis
 
-AIQ Solutions represents a unique opportunity to invest in a capital-efficient, tech-enabled services company disrupting two massive, converging markets. Our acquisition-first strategy provides immediate traction, while the dual-brand approach expands TAM and diversifies revenue. The milestone-based funding minimizes risk while still supporting rapid growth toward a substantial exit. 
+AIQ Solutions represents a unique opportunity to invest in a capital-efficient, tech-enabled services company disrupting two massive, converging markets. Our dual-brand approach allows us to maximize efficiency by leveraging shared technology and operations while addressing distinct market needs - residential users seeking premium experiences and commercial clients demanding affordable automation solutions. This complementary strategy expands our TAM, diversifies revenue, and creates multiple growth vectors from a single operational core. Our acquisition-first strategy provides immediate traction, while the milestone-based funding minimizes risk while still supporting rapid growth toward a substantial exit.

@@ -6,6 +6,18 @@
 
 This repository contains the business plan documentation for HomeAIQ, an AI-powered platform that provides homeowners with actionable insights about their property's value, maintenance needs, and improvement opportunities.
 
+## Document Management
+
+### Manual Revision Markers
+The symbol "§§" is used to indicate manually added revision instructions in documents. When you see this symbol in a file, it indicates specific areas that require attention or changes based on direct feedback.
+
+Example: 
+```
+This is a paragraph in the document.
+§§ This text should be modified to emphasize our competitive advantage.
+Next paragraph continues here.
+```
+
 ## Project Contents
 
 This workspace contains various documents and resources related to the HomeAIQ business plan.
@@ -102,7 +114,12 @@ This business plan is currently in development. Each document contains placehold
 
 When contributing to this business plan documentation:
 - Follow the guidelines in 08_writing_rules.md
+- Look for "§§" symbols which indicate manually added revision instructions
 - Update the questions document with any decisions needed
 - Maintain consistent formatting across documents
 - Ensure all claims are backed by data with sources cited
-- Update the implementation plan with progress status 
+- Update the implementation plan with progress status
+
+## Working Drafts Directory
+
+The `working_drafts` directory is used for creating new documents or making significant revisions to existing ones. This allows for iterative development without cluttering the main `revision_X` directories until the draft is more finalized. 

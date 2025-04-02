@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "revision_3/09_leadership_team_expansion.md",
+                "file": "revision_5/01_executive_summary_revision5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09_leadership_team_expansion"
+              "title": "01_executive_summary_revision5"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 496.5
+    "width": 331.5
   },
   "right": {
     "id": "c2d795a7f48461c0",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "revision_3/09_leadership_team_expansion.md",
+                "file": "revision_5/01_executive_summary_revision5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 09_leadership_team_expansion"
+              "title": "Backlinks for 01_executive_summary_revision5"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "revision_3/09_leadership_team_expansion.md",
+                "file": "revision_5/01_executive_summary_revision5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 09_leadership_team_expansion"
+              "title": "Outgoing links from 01_executive_summary_revision5"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "revision_3/09_leadership_team_expansion.md",
+                "file": "revision_5/01_executive_summary_revision5.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 09_leadership_team_expansion"
+              "title": "Outline of 01_executive_summary_revision5"
             }
           }
         ]
@@ -170,33 +170,36 @@
   },
   "active": "ba525b3adb9691df",
   "lastOpenFiles": [
-    "revision_4/14_strategic_acquisition_plan.md",
-    "revision_4/12_revision_document_index.md",
-    "revision_4/11_research_projects_with_context.md",
-    "revision_4/09_leadership_team_expansion.md",
-    "revision_4/07_founder_profile.md",
-    "revision_4/06_exit_timeline_optimization.md",
-    "revision_4/05_customer_price_validation.md",
-    "revision_4/02_advisory_board_enhancement.md",
-    "revision_4/08_ip_strategy_technical_differentiation.md",
-    "revision_4/10_milestone_based_funding.md",
-    "revision_4/13_revision_implementation_summary.md",
-    "revision_4/04_competitive_response_strategy.md",
-    "revision_4/03_business_plan_revision_executive_summary.md",
-    "revision_4/01_executive_summary_draft.md",
-    "revision_4/00_index.md",
-    "revision_4",
-    "referencematerial/businessAIQ_research/pricing_matrix_v2.md",
-    "referencematerial/businessAIQ_research/pricing_matrix",
-    "referencematerial/businessAIQ_research/services_pricing_matrix.md",
-    "HomeAIQ_Service_Pricing_Table_Part3.md",
-    "HomeAIQ_Service_Pricing_Table_Part2.md",
-    "HomeAIQ_Service_Pricing_Table.md",
-    "revision_3/08_ip_strategy_technical_differentiation.md",
-    "revision_3/07_founder_profile.md",
-    "revision_3/06_exit_timeline_optimization.md",
-    "revision_3/05_customer_price_validation.md",
+    "working_drafts/05.1_HomeAIQ_positioning.md",
+    "revision_5/02_advisory_board_enhancement.md",
+    "working_drafts/AIQ_IP_Ownership_Technology_Roadmap.md",
+    "working_drafts/05.4_BusinessAIQ_competitor_analysis.md",
+    "working_drafts/05.3_BusinessAIQ_positioning.md",
+    "revision_5/12_risk_management_framework.md",
+    "working_drafts/05.2_HomeAIQ_competitor_analysis.md",
+    "revision_5/11_leadership_team_expansion.md",
+    "revision_5/10_exit_strategy_enhancement.md",
+    "working_drafts/AIQ_Competitive_Positioning_Plan.md",
+    "revision_5/09_team_structure_hiring_plan.md",
+    "revision_5/08_founder_profile.md",
+    "revision_5/07_financial_model_funding_structure.md",
+    "revision_5/05_market_expansion_strategy.md",
+    "revision_5/06_commercial_market_segmentation.md",
+    "working_drafts/AIQ_Competitive_Positioning.md",
+    "working_drafts",
     "revision_3/04_competitive_response_strategy.md",
-    "revision_3/03_business_plan_revision_executive_summary.md"
+    "revision_5/04_aiq_hub_technology_platform.md",
+    "revision_5/03_corporate_structure_brand_architecture.md",
+    "cursorrules.md",
+    "revision_5/cursorrules.md",
+    "Clippings/Floral Nectar Lounge.md",
+    "Clippings",
+    "revision_5/13_implementation_plan.md",
+    "revision_5/01_executive_summary_revision5.md",
+    "revision_3/02_advisory_board_enhancement.md",
+    "revision_5/09_leadership_team_expansion.md",
+    "revision_5",
+    "revision_4",
+    "referencematerial/businessAIQ_research/pricing_matrix"
   ]
 }
