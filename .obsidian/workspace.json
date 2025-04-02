@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "0328b1c5b20690fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3730f95d2e2a4a1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba525b3adb9691df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "revision_3/09_leadership_team_expansion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09_leadership_team_expansion"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e65e0cbe926f54b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "27271bebb91f1111",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a838b68e4ba85ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "50970a3053a57b87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "224dd49f2c0c493b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 496.5
+  },
+  "right": {
+    "id": "c2d795a7f48461c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0b44beea1539081",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25679998f1bb4e0c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "revision_3/09_leadership_team_expansion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 09_leadership_team_expansion"
+            }
+          },
+          {
+            "id": "67090ea8dbdc230d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "revision_3/09_leadership_team_expansion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 09_leadership_team_expansion"
+            }
+          },
+          {
+            "id": "9b7205904b3d95a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "58b95ca1bcd4194c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "revision_3/09_leadership_team_expansion.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 09_leadership_team_expansion"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ba525b3adb9691df",
+  "lastOpenFiles": [
+    "HomeAIQ_Service_Pricing_Table_Part3.md",
+    "HomeAIQ_Service_Pricing_Table_Part2.md",
+    "HomeAIQ_Service_Pricing_Table.md",
+    "revision_3/08_ip_strategy_technical_differentiation.md",
+    "revision_3/07_founder_profile.md",
+    "revision_3/06_exit_timeline_optimization.md",
+    "revision_3/05_customer_price_validation.md",
+    "revision_3/04_competitive_response_strategy.md",
+    "revision_3/03_business_plan_revision_executive_summary.md",
+    "revision_3/02_advisory_board_enhancement.md",
+    "revision_3/01_executive_summary_draft.md",
+    "revision_3/00_index.md",
+    "referencematerial/businessAIQ_research/Analysis_BAS_Investment_Landscape.md",
+    "referencematerial/businessAIQ_research/Analysis_BAS_Pricing_Strategies.md",
+    "referencematerial/businessAIQ_research/Analysis_Global_BAS_Market.md",
+    "referencematerial/businessAIQ_research/Analysis_GTM_Enterprise_BAS_Home_Assistant_Fork.md",
+    "referencematerial/businessAIQ_research/Analysis_Open_Source_vs_Commercial_BAS_Market_Disruption.md",
+    "referencematerial/businessAIQ_research/Strategy_Open_Source_BMS_Startup_7_Year_Plan.md",
+    "referencematerial/businessAIQ_research/Case_Study_Johnson_Controls_Metasys_20kSqFt_Office.md",
+    "referencematerial/businessAIQ_research/Financial_Projections_Brainstorm.md",
+    "referencematerial/businessAIQ_research/BusinessAIQ_Business_Plan_Draft.md",
+    "referencematerial/businessAIQ_research/Ideal_Customer_Profile_Definition_for_BusinessAIQ.md",
+    "referencematerial/businessAIQ_research/Ideal_Customer_Profile_Potential_Pricing_Models.md",
+    "referencematerial/businessAIQ_research/ICP_potential_pricing.md",
+    "referencematerial/businessAIQ_research/ICP_for_business_AIQ.md",
+    "referencematerial/businessAIQ_research/Open-Source Powered Building Management Startup 7-Year Growth and Strategy.md"
+  ]
+}
