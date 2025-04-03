@@ -9,6 +9,7 @@ The AIQ Hub is our proprietary technology platform that powers both HomeAIQ and 
 The core of the AIQ Hub leverages **Home Assistant**, the leading open-source home automation platform, providing several immediate advantages:
 
 * **Unmatched Device Compatibility**: Native support for 2,447+ integrations across all major protocols (Zigbee, Z-Wave, Wi-Fi, Matter, Thread, Bluetooth)
+§§ You should mention here that these protocols power 
 * **Local-First Processing**: Core automation runs locally for reliability and privacy, with cloud connectivity for remote features
 * **Rapid Innovation Cycle**: Benefits from thousands of community contributors and weekly updates
 * **Economic Efficiency**: Open-source core eliminates licensing costs, allowing investment in value-added features

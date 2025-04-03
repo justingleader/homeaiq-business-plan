@@ -209,4 +209,11 @@ Each market will be tracked against key performance indicators:
 * Referral source effectiveness
 * Competitive win/loss analysis
 
-This structured, data-driven expansion approach ensures capital efficiency while methodically building a national footprint of integrated HomeAIQ and BusinessAIQ services. 
+This structured, data-driven expansion approach ensures capital efficiency while methodically building a national footprint of integrated HomeAIQ and BusinessAIQ services.
+
+## Related Strategy Documents
+
+For detailed analysis of competitive positioning in each market segment, please refer to:
+
+* [HomeAIQ Competitive Positioning](05a_competitive_positioning_homeaiq.md) - Analysis of residential market competitors and HomeAIQ's differentiation strategy
+* [BusinessAIQ Market Positioning and Competitive Analysis](05b_competitive_positioning_businessaiq.md) - Comprehensive overview of commercial market positioning and competitor analysis 

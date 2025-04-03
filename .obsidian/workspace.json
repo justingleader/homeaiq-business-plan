@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "revision_5/01_executive_summary_revision5.md",
+                "file": "revision_5/10_exit_strategy_enhancement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_executive_summary_revision5"
+              "title": "10_exit_strategy_enhancement"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "revision_5/01_executive_summary_revision5.md",
+                "file": "revision_5/10_exit_strategy_enhancement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01_executive_summary_revision5"
+              "title": "Backlinks for 10_exit_strategy_enhancement"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "revision_5/01_executive_summary_revision5.md",
+                "file": "revision_5/10_exit_strategy_enhancement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 01_executive_summary_revision5"
+              "title": "Outgoing links from 10_exit_strategy_enhancement"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "revision_5/01_executive_summary_revision5.md",
+                "file": "revision_5/10_exit_strategy_enhancement.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01_executive_summary_revision5"
+              "title": "Outline of 10_exit_strategy_enhancement"
             }
           }
         ]
@@ -170,34 +170,35 @@
   },
   "active": "ba525b3adb9691df",
   "lastOpenFiles": [
-    "working_drafts/05.1_HomeAIQ_positioning.md",
-    "revision_5/02_advisory_board_enhancement.md",
-    "working_drafts/AIQ_IP_Ownership_Technology_Roadmap.md",
+    "working_drafts/old_files/investor_feedback_punch_list.md",
+    "revision_5/01_executive_summary_revision5.md",
+    "working_drafts/old_files/05.4_BusinessAIQ_competitor_analysis.md",
+    "working_drafts/old_files/05.3_BusinessAIQ_positioning.md",
+    "working_drafts/old_files/05.2_HomeAIQ_positioning.md",
+    "working_drafts/old_files",
+    "revision_5/05b_competitive_positioning_businessaiq.md",
+    "revision_5/05a_competitive_positioning_homeaiq.md",
+    "referencematerial/businessAIQ_research/Analysis_BAS_Pricing_Strategies.md",
+    "revision_5/Appendix05_BAS_Pricing_Reference.md",
+    "referencematerial/businessAIQ_research/Analysis_Global_BAS_Market.md",
+    "referencematerial/businessAIQ_research/Analysis_BAS_Investment_Landscape.md",
+    "revision_5/Appendix05_BAS_Market_Activity.md",
+    "referencematerial/businessAIQ_research/Analysis_GTM_Enterprise_BAS_Home_Assistant_Fork.md",
+    "referencematerial/businessAIQ_research/Analysis_Open_Source_vs_Commercial_BAS_Market_Disruption.md",
+    "referencematerial/businessAIQ_research/BusinessAIQ_Business_Plan_Draft.md",
+    "referencematerial/businessAIQ_research/Case_Study_Johnson_Controls_Metasys_20kSqFt_Office.md",
     "working_drafts/05.4_BusinessAIQ_competitor_analysis.md",
+    "working_drafts/05.2_HomeAIQ_positioning.md",
+    "working_drafts/05.1_HomeAIQ_positioning.md",
+    "working_drafts/Untitled.md",
+    "working_drafts/AIQ_IP_Ownership_Technology_Roadmap.md",
+    "working_drafts/Improved_Executive_Summary.md",
+    "revision_3/01_executive_summary_draft.md",
+    "revision_5/02_advisory_board_enhancement.md",
     "working_drafts/05.3_BusinessAIQ_positioning.md",
     "revision_5/12_risk_management_framework.md",
-    "working_drafts/05.2_HomeAIQ_competitor_analysis.md",
-    "revision_5/11_leadership_team_expansion.md",
-    "revision_5/10_exit_strategy_enhancement.md",
-    "working_drafts/AIQ_Competitive_Positioning_Plan.md",
-    "revision_5/09_team_structure_hiring_plan.md",
-    "revision_5/08_founder_profile.md",
-    "revision_5/07_financial_model_funding_structure.md",
-    "revision_5/05_market_expansion_strategy.md",
-    "revision_5/06_commercial_market_segmentation.md",
-    "working_drafts/AIQ_Competitive_Positioning.md",
     "working_drafts",
-    "revision_3/04_competitive_response_strategy.md",
-    "revision_5/04_aiq_hub_technology_platform.md",
-    "revision_5/03_corporate_structure_brand_architecture.md",
-    "cursorrules.md",
-    "revision_5/cursorrules.md",
-    "Clippings/Floral Nectar Lounge.md",
     "Clippings",
-    "revision_5/13_implementation_plan.md",
-    "revision_5/01_executive_summary_revision5.md",
-    "revision_3/02_advisory_board_enhancement.md",
-    "revision_5/09_leadership_team_expansion.md",
     "revision_5",
     "revision_4",
     "referencematerial/businessAIQ_research/pricing_matrix"
